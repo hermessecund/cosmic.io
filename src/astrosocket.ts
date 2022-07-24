@@ -1,5 +1,5 @@
 export default function astrosocket() {
-   // const sock = io('http://astronaut.io/')
+   const sock = io('http://astronaut.io/')
 
     return sock
 }
