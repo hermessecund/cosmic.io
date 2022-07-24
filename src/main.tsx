@@ -304,8 +304,7 @@ function CosmicIOApp() {
                 <div className="about">
                     <div className="content">
                         <p>
-                            This website leeches off random YouTube video IDs, provided by{' '}
-                            <a href="http://astronaut.io/">astronaut.io</a>.
+                            This website leeches off random YouTube video IDs, provided by astronaut.io
                         </p>
                         <p>
                             I was unsatisfied with how astronaut works, but noticed that it allows
